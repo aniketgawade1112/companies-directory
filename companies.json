@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Tata Consultancy Services",
+    "industry": "Technology",
+    "location": "Mumbai, India",
+    "employees": 600000,
+    "founded": 1968,
+    "website": "https://tcs.example",
+    "tags": ["IT Services", "SaaS"]
+  },
+  {
+    "id": 2,
+    "name": "Infosys",
+    "industry": "Technology",
+    "location": "Bengaluru, India",
+    "employees": 345000,
+    "founded": 1981,
+    "website": "https://infosys.example",
+    "tags": ["IT Services"]
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "industry": "Technology",
+    "location": "Bengaluru, India",
+    "employees": 245000,
+    "founded": 1945,
+    "website": "https://wipro.example",
+    "tags": ["Consulting", "Cloud"]
+  },
+  {
+    "id": 4,
+    "name": "HCLTech",
+    "industry": "Technology",
+    "location": "Noida, India",
+    "employees": 225000,
+    "founded": 1976,
+    "website": "https://hcl.example",
+    "tags": ["IT Services", "Engineering"]
+  },
+  {
+    "id": 5,
+    "name": "Tech Mahindra",
+    "industry": "Technology",
+    "location": "Pune, India",
+    "employees": 150000,
+    "founded": 1986,
+    "website": "https://techm.example",
+    "tags": ["Telecom", "Consulting"]
+  },
+  {
+    "id": 6,
+    "name": "Reliance Industries",
+    "industry": "Conglomerate",
+    "location": "Mumbai, India",
+    "employees": 380000,
+    "founded": 1966,
+    "website": "https://reliance.example",
+    "tags": ["Energy", "Retail"]
+  },
+  {
+    "id": 7,
+    "name": "Jio Platforms",
+    "industry": "Telecom",
+    "location": "Mumbai, India",
+    "employees": 70000,
+    "founded": 2019,
+    "website": "https://jio.example",
+    "tags": ["5G", "Digital"]
+  },
+  {
+    "id": 8,
+    "name": "Bharti Airtel",
+    "industry": "Telecom",
+    "location": "New Delhi, India",
+    "employees": 45000,
+    "founded": 1995,
+    "website": "https://airtel.example",
+    "tags": ["Mobile", "Broadband"]
+  },
+  {
+    "id": 9,
+    "name": "Flipkart",
+    "industry": "E-commerce",
+    "location": "Bengaluru, India",
+    "employees": 30000,
+    "founded": 2007,
+    "website": "https://flipkart.example",
+    "tags": ["Marketplace", "Retail"]
+  },
+  {
+    "id": 10,
+    "name": "Amazon India",
+    "industry": "E-commerce",
+    "location": "Bengaluru, India",
+    "employees": 100000,
+    "founded": 2013,
+    "website": "https://amazon-in.example",
+    "tags": ["Logistics", "Retail"]
+  },
+  {
+    "id": 11,
+    "name": "Swiggy",
+    "industry": "Food & Beverage",
+    "location": "Bengaluru, India",
+    "employees": 20000,
+    "founded": 2014,
+    "website": "https://swiggy.example",
+    "tags": ["Delivery", "D2C"]
+  },
+  {
+    "id": 12,
+    "name": "Zomato",
+    "industry": "Food & Beverage",
+    "location": "Gurugram, India",
+    "employees": 15000,
+    "founded": 2008,
+    "website": "https://zomato.example",
+    "tags": ["FoodTech"]
+  },
+  {
+    "id": 13,
+    "name": "Paytm",
+    "industry": "Fintech",
+    "location": "Noida, India",
+    "employees": 10000,
+    "founded": 2010,
+    "website": "https://paytm.example",
+    "tags": ["Payments", "Wallet"]
+  },
+  {
+    "id": 14,
+    "name": "PhonePe",
+    "industry": "Fintech",
+    "location": "Bengaluru, India",
+    "employees": 13000,
+    "founded": 2015,
+    "website": "https://phonepe.example",
+    "tags": ["UPI", "Payments"]
+  },
+  {
+    "id": 15,
+    "name": "Razorpay",
+    "industry": "Fintech",
+    "location": "Bengaluru, India",
+    "employees": 4000,
+    "founded": 2014,
+    "website": "https://razorpay.example",
+    "tags": ["Payments", "SaaS"]
+  },
+  {
+    "id": 16,
+    "name": "CRED",
+    "industry": "Fintech",
+    "location": "Bengaluru, India",
+    "employees": 2500,
+    "founded": 2018,
+    "website": "https://cred.example",
+    "tags": ["Rewards", "Credit"]
+  },
+  {
+    "id": 17,
+    "name": "BYJU'S",
+    "industry": "EdTech",
+    "location": "Bengaluru, India",
+    "employees": 20000,
+    "founded": 2011,
+    "website": "https://byjus.example",
+    "tags": ["Learning", "K-12"]
+  },
+  {
+    "id": 18,
+    "name": "Unacademy",
+    "industry": "EdTech",
+    "location": "Bengaluru, India",
+    "employees": 6000,
+    "founded": 2015,
+    "website": "https://unacademy.example",
+    "tags": ["Test Prep"]
+  },
+  {
+    "id": 19,
+    "name": "Zoho",
+    "industry": "Technology",
+    "location": "Chennai, India",
+    "employees": 15000,
+    "founded": 1996,
+    "website": "https://zoho.example",
+    "tags": ["SaaS", "CRM"]
+  },
+  {
+    "id": 20,
+    "name": "Freshworks",
+    "industry": "Technology",
+    "location": "Chennai, India",
+    "employees": 6000,
+    "founded": 2010,
+    "website": "https://freshworks.example",
+    "tags": ["CX", "SaaS"]
+  },
+  {
+    "id": 21,
+    "name": "Tata Motors",
+    "industry": "Automotive",
+    "location": "Mumbai, India",
+    "employees": 78000,
+    "founded": 1945,
+    "website": "https://tatamotors.example",
+    "tags": ["EV", "Manufacturing"]
+  },
+  {
+    "id": 22,
+    "name": "Mahindra & Mahindra",
+    "industry": "Automotive",
+    "location": "Mumbai, India",
+    "employees": 41000,
+    "founded": 1945,
+    "website": "https://mahindra.example",
+    "tags": ["SUV", "Farm Equipment"]
+  },
+  {
+    "id": 23,
+    "name": "Maruti Suzuki",
+    "industry": "Automotive",
+    "location": "New Delhi, India",
+    "employees": 40000,
+    "founded": 1981,
+    "website": "https://maruti.example",
+    "tags": ["Automotive"]
+  },
+  {
+    "id": 24,
+    "name": "Larsen & Toubro (L&T)",
+    "industry": "Engineering",
+    "location": "Mumbai, India",
+    "employees": 350000,
+    "founded": 1938,
+    "website": "https://lnt.example",
+    "tags": ["EPC", "Infra"]
+  },
+  {
+    "id": 25,
+    "name": "Hindustan Unilever",
+    "industry": "FMCG",
+    "location": "Mumbai, India",
+    "employees": 21000,
+    "founded": 1933,
+    "website": "https://hul.example",
+    "tags": ["Consumer", "Retail"]
+  },
+  {
+    "id": 26,
+    "name": "ITC Limited",
+    "industry": "FMCG",
+    "location": "Kolkata, India",
+    "employees": 36000,
+    "founded": 1910,
+    "website": "https://itc.example",
+    "tags": ["FMCG", "Hotels"]
+  },
+  {
+    "id": 27,
+    "name": "Godrej Industries",
+    "industry": "Conglomerate",
+    "location": "Mumbai, India",
+    "employees": 12000,
+    "founded": 1897,
+    "website": "https://godrej.example",
+    "tags": ["Consumer", "Chemicals"]
+  },
+  {
+    "id": 28,
+    "name": "Adani Ports",
+    "industry": "Logistics",
+    "location": "Ahmedabad, India",
+    "employees": 23000,
+    "founded": 1998,
+    "website": "https://adaniports.example",
+    "tags": ["Ports", "Infra"]
+  },
+  {
+    "id": 29,
+    "name": "Delhivery",
+    "industry": "Logistics",
+    "location": "Gurugram, India",
+    "employees": 26000,
+    "founded": 2011,
+    "website": "https://delhivery.example",
+    "tags": ["3PL", "E-commerce"]
+  },
+  {
+    "id": 30,
+    "name": "Meesho",
+    "industry": "E-commerce",
+    "location": "Bengaluru, India",
+    "employees": 4500,
+    "founded": 2015,
+    "website": "https://meesho.example",
+    "tags": ["Social Commerce"]
+  },
+  {
+    "id": 31,
+    "name": "Nykaa",
+    "industry": "E-commerce",
+    "location": "Mumbai, India",
+    "employees": 5000,
+    "founded": 2012,
+    "website": "https://nykaa.example",
+    "tags": ["Beauty", "Retail"]
+  },
+  {
+    "id": 32,
+    "name": "Policybazaar",
+    "industry": "Insurtech",
+    "location": "Gurugram, India",
+    "employees": 11000,
+    "founded": 2008,
+    "website": "https://policybazaar.example",
+    "tags": ["Insurance", "Marketplace"]
+  },
+  {
+    "id": 33,
+    "name": "Udaan",
+    "industry": "B2B Marketplace",
+    "location": "Bengaluru, India",
+    "employees": 5000,
+    "founded": 2016,
+    "website": "https://udaan.example",
+    "tags": ["B2B", "Logistics"]
+  },
+  {
+    "id": 34,
+    "name": "ShareChat",
+    "industry": "Social Media",
+    "location": "Bengaluru, India",
+    "employees": 3000,
+    "founded": 2015,
+    "website": "https://sharechat.example",
+    "tags": ["Media", "AI"]
+  },
+  {
+    "id": 35,
+    "name": "Ola Cabs",
+    "industry": "Mobility",
+    "location": "Bengaluru, India",
+    "employees": 12000,
+    "founded": 2010,
+    "website": "https://ola.example",
+    "tags": ["Ride Hailing", "EV"]
+  },
+  {
+    "id": 36,
+    "name": "OYO",
+    "industry": "Hospitality",
+    "location": "Gurugram, India",
+    "employees": 17000,
+    "founded": 2013,
+    "website": "https://oyo.example",
+    "tags": ["Hotels", "Travel"]
+  },
+  {
+    "id": 37,
+    "name": "LTIMindtree",
+    "industry": "Technology",
+    "location": "Bengaluru, India",
+    "employees": 82000,
+    "founded": 1996,
+    "website": "https://ltimindtree.example",
+    "tags": ["IT Services", "Consulting"]
+  },
+  {
+    "id": 38,
+    "name": "Coforge",
+    "industry": "Technology",
+    "location": "Noida, India",
+    "employees": 25000,
+    "founded": 1992,
+    "website": "https://coforge.example",
+    "tags": ["Digital", "Cloud"]
+  },
+  {
+    "id": 39,
+    "name": "Persistent Systems",
+    "industry": "Technology",
+    "location": "Pune, India",
+    "employees": 24000,
+    "founded": 1990,
+    "website": "https://persistent.example",
+    "tags": ["Product Engineering", "SaaS"]
+  },
+  {
+    "id": 40,
+    "name": "Mphasis",
+    "industry": "Technology",
+    "location": "Bengaluru, India",
+    "employees": 32000,
+    "founded": 1998,
+    "website": "https://mphasis.example",
+    "tags": ["AI", "Cloud"]
+  },
+  {
+    "id": 41,
+    "name": "L&T Technology Services",
+    "industry": "Engineering",
+    "location": "Vadodara, India",
+    "employees": 22000,
+    "founded": 2012,
+    "website": "https://ltts.example",
+    "tags": ["ER&D", "Industrial"]
+  },
+  {
+    "id": 42,
+    "name": "Sun Pharmaceutical Industries",
+    "industry": "Pharmaceuticals",
+    "location": "Mumbai, India",
+    "employees": 38000,
+    "founded": 1983,
+    "website": "https://sunpharma.example",
+    "tags": ["Generics", "R&D"]
+  },
+  {
+    "id": 43,
+    "name": "Dr. Reddy's Laboratories",
+    "industry": "Pharmaceuticals",
+    "location": "Hyderabad, India",
+    "employees": 26000,
+    "founded": 1984,
+    "website": "https://drreddys.example",
+    "tags": ["APIs", "Generics"]
+  },
+  {
+    "id": 44,
+    "name": "Cipla",
+    "industry": "Pharmaceuticals",
+    "location": "Mumbai, India",
+    "employees": 25000,
+    "founded": 1935,
+    "website": "https://cipla.example",
+    "tags": ["Respiratory", "Generics"]
+  },
+  {
+    "id": 45,
+    "name": "Biocon",
+    "industry": "Biotech",
+    "location": "Bengaluru, India",
+    "employees": 16000,
+    "founded": 1978,
+    "website": "https://biocon.example",
+    "tags": ["Biosimilars", "Biologics"]
+  },
+  {
+    "id": 46,
+    "name": "Adani Green Energy",
+    "industry": "Renewable Energy",
+    "location": "Ahmedabad, India",
+    "employees": 6000,
+    "founded": 2015,
+    "website": "https://adanigreen.example",
+    "tags": ["Solar", "Wind"]
+  },
+  {
+    "id": 47,
+    "name": "ReNew Power",
+    "industry": "Renewable Energy",
+    "location": "Gurugram, India",
+    "employees": 2000,
+    "founded": 2011,
+    "website": "https://renewpower.example",
+    "tags": ["Wind", "Solar"]
+  },
+  {
+    "id": 48,
+    "name": "Tata Power Renewable Energy",
+    "industry": "Renewable Energy",
+    "location": "Mumbai, India",
+    "employees": 3500,
+    "founded": 2007,
+    "website": "https://tprenewables.example",
+    "tags": ["Solar", "Storage"]
+  },
+  {
+    "id": 49,
+    "name": "Ather Energy",
+    "industry": "Automotive",
+    "location": "Bengaluru, India",
+    "employees": 4000,
+    "founded": 2013,
+    "website": "https://ather.example",
+    "tags": ["EV", "Manufacturing"]
+  },
+  {
+    "id": 50,
+    "name": "Ola Electric",
+    "industry": "Automotive",
+    "location": "Bengaluru, India",
+    "employees": 7000,
+    "founded": 2017,
+    "website": "https://olaelectric.example",
+    "tags": ["EV", "Battery"]
+  },
+  {
+    "id": 51,
+    "name": "Bharat Electronics (BEL)",
+    "industry": "Defense",
+    "location": "Bengaluru, India",
+    "employees": 9000,
+    "founded": 1954,
+    "website": "https://bel.example",
+    "tags": ["Radar", "Electronics"]
+  },
+  {
+    "id": 52,
+    "name": "Hindustan Aeronautics (HAL)",
+    "industry": "Aerospace & Defense",
+    "location": "Bengaluru, India",
+    "employees": 28000,
+    "founded": 1940,
+    "website": "https://hal.example",
+    "tags": ["Aircraft", "Engines"]
+  },
+  {
+    "id": 53,
+    "name": "Tata Elxsi",
+    "industry": "Technology",
+    "location": "Bengaluru, India",
+    "employees": 12000,
+    "founded": 1989,
+    "website": "https://tataelxsi.example",
+    "tags": ["Design", "Embedded"]
+  },
+  {
+    "id": 54,
+    "name": "HDFC Bank",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 180000,
+    "founded": 1994,
+    "website": "https://hdfcbank.example",
+    "tags": ["Retail Banking", "Payments"]
+  },
+  {
+    "id": 55,
+    "name": "ICICI Bank",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 130000,
+    "founded": 1994,
+    "website": "https://icicibank.example",
+    "tags": ["Banking", "Corporate"]
+  },
+  {
+    "id": 56,
+    "name": "Axis Bank",
+    "industry": "Finance",
+    "location": "Mumbai, India",
+    "employees": 95000,
+    "founded": 1993,
+    "website": "https://axisbank.example",
+    "tags": ["Banking", "Retail"]
+  },
+  {
+    "id": 57,
+    "name": "BluSmart",
+    "industry": "Mobility",
+    "location": "Gurugram, India",
+    "employees": 2000,
+    "founded": 2019,
+    "website": "https://blusmart.example",
+    "tags": ["EV Fleet", "Ride Hailing"]
+  },
+  {
+    "id": 58,
+    "name": "Lenskart",
+    "industry": "E-commerce",
+    "location": "Gurugram, India",
+    "employees": 7000,
+    "founded": 2010,
+    "website": "https://lenskart.example",
+    "tags": ["Retail", "D2C"]
+  },
+  {
+    "id": 59,
+    "name": "BigBasket",
+    "industry": "E-commerce",
+    "location": "Bengaluru, India",
+    "employees": 15000,
+    "founded": 2011,
+    "website": "https://bigbasket.example",
+    "tags": ["Grocery", "Marketplace"]
+  },
+  {
+    "id": 60,
+    "name": "PharmEasy",
+    "industry": "HealthTech",
+    "location": "Mumbai, India",
+    "employees": 6000,
+    "founded": 2015,
+    "website": "https://pharmeasy.example",
+    "tags": ["E-Pharmacy", "Telehealth"]
+  }
+]

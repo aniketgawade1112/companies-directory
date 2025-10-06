@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0b1020;
+  --color-card: #121830;
+  --color-border: #1f2a4a;
+}
+
+@layer components {
+  .card {
+    @apply bg-card/60 border border-border rounded-xl shadow-xl;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-slate-900/50 px-3 py-2 text-sm hover:bg-slate-900/70 disabled:opacity-60 disabled:cursor-not-allowed;
+  }
+  .input {
+    @apply w-full rounded-lg border border-border bg-slate-900/50 px-3 py-2 text-sm placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-indigo-500/50;
+  }
+  .select {
+    @apply w-full rounded-lg border border-border bg-slate-900/50 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500/50;
+  }
+  .tag {
+    @apply inline-block rounded-full border border-cyan-600/40 bg-cyan-900/30 px-2 py-0.5 text-xs text-cyan-200;
+  }
+  .badge {
+    @apply inline-block rounded-full border border-border bg-slate-800/60 px-2 py-0.5 text-xs text-slate-300;
+  }
+  .table-th {
+    @apply sticky top-0 bg-slate-900/70 text-[11px] uppercase tracking-wider text-slate-400;
+  }
+  .page-btn {
+    @apply min-w-10 rounded-lg border border-border bg-slate-900/50 px-2 py-2 text-sm hover:bg-slate-900/70;
+  }
+  .page-btn-active {
+    @apply bg-gradient-to-r from-indigo-400 to-cyan-300 text-slate-900 border-0;
+  }
+}
